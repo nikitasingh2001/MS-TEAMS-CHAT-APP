@@ -35,7 +35,7 @@ Run this to install all dependencies required for the app to run
 </ul>
 
 ### `npm start`
-Use this command to run the app in the development mode.<br />
+Use this command to run the app in the development mode that will run the server.js.<br />
 Open [http://localhost:3000](http://localhost:3000) to view running app it in the browser. 
 The page will reload if you make edits.<br />
 
