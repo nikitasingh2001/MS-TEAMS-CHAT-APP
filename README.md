@@ -17,7 +17,9 @@ A **Video Call** application where multiple users can connect and have face-to-f
 ## Click on the button as shown in the image copy the URL and share with your friend 
 ![image](https://user-images.githubusercontent.com/69220037/124867375-9d034080-dfdb-11eb-87b7-a4693168cbb4.png)
 
-###
+### Now the connection is established you can have face-to-face conversation
+![image](https://user-images.githubusercontent.com/69220037/124869404-c96c8c00-dfde-11eb-9ebd-7e0979936aa7.png)
+
 
 
 
