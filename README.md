@@ -23,6 +23,22 @@ A **Video Call** application where multiple users can connect and have face-to-f
 ## Chat feature (Send and receive messages during the meeting with other participants easily)
 ![image](https://user-images.githubusercontent.com/69220037/124870647-af33ad80-dfe0-11eb-8e53-0196821eb3a4.png)
 
+### Dependencies you need to install for local set up
+### `npm install`
+Run this to install all dependencies required for the app to run
+<ul>
+  <li>npm install express</li>
+  <li>npm install socket.io</li>
+  <li>npm install ejs</li>
+  <li>npm install uuid peer</li>
+  <li>npm install -dev nodemon</li>
+</ul>
+
+### `npm start`
+Use this command to run the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view running app it in the browser. 
+The page will reload if you make edits.<br />
+
 
 
 
