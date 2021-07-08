@@ -11,11 +11,11 @@ A **Video Call** application where multiple users can connect and have face-to-f
 ![image](https://user-images.githubusercontent.com/69220037/124866025-5ad8ff80-dfd9-11eb-8dd5-a0c48955a6d5.png)
 
 ### After you join
-![image](https://user-images.githubusercontent.com/69220037/124866775-90cab380-dfda-11eb-8ebc-465327ca3104.png)
+![image](https://user-images.githubusercontent.com/69220037/124870939-0fc2ea80-dfe1-11eb-99d0-c224c5fb049e.png)
 
 ### Way to invite other user 
 ## Click on the button as shown in the image copy the URL and share with your friend 
-![image](https://user-images.githubusercontent.com/69220037/124867375-9d034080-dfdb-11eb-87b7-a4693168cbb4.png)
+![image](https://user-images.githubusercontent.com/69220037/124871160-56b0e000-dfe1-11eb-9494-65b716ee7516.png)
 
 ### Now the connection is established you can have face-to-face conversation
 ![image](https://user-images.githubusercontent.com/69220037/124869986-a42c4d80-dfdf-11eb-9199-1ebf9e0224a2.png)
