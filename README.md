@@ -18,7 +18,8 @@ A **Video Call** application where multiple users can connect and have face-to-f
 ![image](https://user-images.githubusercontent.com/69220037/124867375-9d034080-dfdb-11eb-87b7-a4693168cbb4.png)
 
 ### Now the connection is established you can have face-to-face conversation
-![image](https://user-images.githubusercontent.com/69220037/124869735-413ab680-dfdf-11eb-8d30-4acb73826f97.png)
+![image](https://user-images.githubusercontent.com/69220037/124869986-a42c4d80-dfdf-11eb-9199-1ebf9e0224a2.png)
+
 
 
 
