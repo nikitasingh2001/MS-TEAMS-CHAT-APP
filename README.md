@@ -20,6 +20,10 @@ A **Video Call** application where multiple users can connect and have face-to-f
 ### Now the connection is established you can have face-to-face conversation
 ![image](https://user-images.githubusercontent.com/69220037/124869986-a42c4d80-dfdf-11eb-9199-1ebf9e0224a2.png)
 
+### Chat feature
+![image](https://user-images.githubusercontent.com/69220037/124870647-af33ad80-dfe0-11eb-8e53-0196821eb3a4.png)
+
+
 
 
 
