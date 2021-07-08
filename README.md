@@ -14,7 +14,9 @@ A **Video Call** application where multiple users can connect and have face-to-f
 ![image](https://user-images.githubusercontent.com/69220037/124866775-90cab380-dfda-11eb-8ebc-465327ca3104.png)
 
 ### Way to invite other user 
-![image](https://user-images.githubusercontent.com/69220037/124866942-dd15f380-dfda-11eb-8703-f38a1ab4a526.png)
+## Click on the button as shown in the image copy the URL and share with your friend 
+![image](https://user-images.githubusercontent.com/69220037/124867375-9d034080-dfdb-11eb-87b7-a4693168cbb4.png)
+
 
 
 
