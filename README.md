@@ -1,6 +1,6 @@
 MS-TEAMS VIDEO CALL APP
-----------------------------------------
-----------------------------------------
+==============
+
 A **Video Call** application where multiple users can connect and have face-to-face conversation with chat features available 
 1. **Sockets.io** - Used to implement the real-time functionalities by sending triggering and monitoring events on a topic-subscription based model.
 2. **uuid** - Used to create unique ID's for inviting other user
